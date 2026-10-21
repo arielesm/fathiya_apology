@@ -1,1 +1,1 @@
-deploy : https://arielesm.github.io/apologyforfathiya/
+deploy : https://arielesm.github.io/fathiya_apology/
